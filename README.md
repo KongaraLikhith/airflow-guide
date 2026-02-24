@@ -19,7 +19,7 @@ The core of this repository is a detailed technical guide (PDF) that covers the 
 
 You can view or download the comprehensive study guide here:
 
-👉 **[Download Apache_Airflow_Fundamentals_Guide.pdf](https://github.com/YOUR_GITHUB_USERNAME/airflow-guide/blob/main/YOUR_FILE_NAME.pdf)**
+👉 **[Download Apache_Airflow_Fundamentals_Guide.pdf](https://github.com/KongaraLikhith/airflow-guide/blob/main/Airflow%20Exam%20Prep%20Guide.pdf)**
 
 ---
 
@@ -36,7 +36,7 @@ You can view or download the comprehensive study guide here:
 2. A typo or formatting issue.
 3. A concept that needs more clarity.
 
-Please **open an Issue** in this repository or leave a comment on my [Medium Article](YOUR_MEDIUM_ARTICLE_LINK_HERE). I'm a firm believer that the best way to learn is through peer review and community discussion.
+Please **open an Issue** in this repository or leave a comment on my [Medium Article](https://medium.com/@likhith0715/mastering-apache-airflow-for-certification-54fc7f303699). I'm a firm believer that the best way to learn is through peer review and community discussion.
 
 ---
 
